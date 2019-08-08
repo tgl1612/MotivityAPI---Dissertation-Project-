@@ -5,4 +5,3 @@ consisting of a React front-end and a RESTful API. The project was built using t
 
 This repository contains the RESTful API.
 
-All database configuration details have been removed. 
